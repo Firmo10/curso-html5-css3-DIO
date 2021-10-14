@@ -41,3 +41,11 @@ a{
     margin: 0;
     margin-bottom: 15px;
 }
+
+.contacts_list{
+    list-style-type: square;
+}
+
+.contacts_list li a {
+    text-decoration: none;
+}
